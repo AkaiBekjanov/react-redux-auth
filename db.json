@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "email": "akaichik@gmail.com",
+      "password": "12345",
+      "login": "akai",
+      "phone": "12345",
+      "id": 8
+    },
+    {
+      "email": "ak@gmail.com",
+      "password": "$2a$10$M/GqhIUfD6wf4FhqNkV0beMGGTTRGMoiJQioqbMnklkIpy.j1RBWq",
+      "login": "bekjanov.akai.official@gmail.com",
+      "phone": "14235235",
+      "id": 9
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$HbzMDHLV4IQqvmDTkR6fLO1sk2qHEPiVvtGOEo6W/05bkxSuFUWo.",
+      "login": "bekjanov.akai.official@gmail.com",
+      "phone": "14235235",
+      "id": 10
+    },
+    {
+      "email": "aasfa@gmail.com",
+      "password": "$2a$10$B5t5zESRuCk3R0oKcuYljOd4Z.tdRFGvEXRSg7Ha9C9IFv0Pm32JC",
+      "login": "bekjanov.akasfai.official@gmail.com",
+      "phone": "14235235",
+      "id": 11
+    },
+    {
+      "email": "brat1@mail.ru",
+      "password": "$2a$10$G7XCCM7KEYx9DINM6mMIVu4w42OXsFak.mBEYRMg4VhFqSzHHc7hy",
+      "login": "brat1@mail.ru",
+      "phone": "12345",
+      "id": 12
+    },
+    {
+      "email": "akai6@gmail.com",
+      "password": "$2a$10$9bWIELaIeXGC8HPh6XPvlOhNvEr69J64gktFKCuGEWvKiGBrNx1sq",
+      "login": "bekjanov.akai.official@gmail.com",
+      "phone": "123456",
+      "id": 13
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$tWtcSyPtpTZWi2wA9mNwL.PqqFf5T92tiie36fGHClPLVAgTpO/x.",
+      "login": "1",
+      "phone": "12345",
+      "id": 14
+    },
+    {
+      "email": "bekjanov.akai.official@gmail.com",
+      "password": "$2a$10$fAd27biBLWNsTVTMX3liuehPMqzRZKyRkqGyahjM3bL3FdRimVy1O",
+      "login": "bekjanov.akai.official@gmail.com",
+      "phone": "1234",
+      "id": 15
+    },
+    {
+      "email": "12345678@mail.ru",
+      "password": "$2a$10$dIoCBO6Orev2vL1vc3dTN.18cQgnSxKDZaSTFYVjW2ZOD8OBj./5W",
+      "login": "12345678",
+      "phone": "12345678",
+      "id": 16
+    },
+    {
+      "email": "123@mail.ru",
+      "password": "$2a$10$aAsv8x31BNJD/v4slK3uC.lUnOxSyOE3TMv.BLYBj9bJNLoX6PMeC",
+      "login": "12345678",
+      "phone": "12345678",
+      "id": 17
+    },
+    {
+      "email": "alina@mail.ru",
+      "password": "$2a$10$vPgLi9EYg1FodiOKeJNUhe8pEvCX76SE5AAX6wLSBCibUQQQLIyde",
+      "login": "12345678",
+      "phone": "12345678",
+      "id": 18
+    }
+  ]
+}
